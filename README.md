@@ -1,7 +1,6 @@
-<p align="center"><b><font size="12">Hello, world!</font></b></p>
+<p align="center"><b><font size="20">Hello, world!</font></b></p>
 <p align="center">
-  align="center">
-  <b><font size="8">I'm Dmytro, an aspiring iOS Developer currently finalizing my Bachelor's degree in Computer Science. I focus on building clean and  modern mobile applications. Beyond mobile development, I am equally excited about creating web applications and am always open, ready, and eager to learn new technologies.</font></b>
+  <b><font size="15">I'm Dmytro, an aspiring iOS Developer currently finalizing my Bachelor's degree in Computer Science. I focus on building clean and  modern mobile applications. Beyond mobile development, I am equally excited about creating web applications and am always open, ready, and eager to learn new technologies.</font></b>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/dmytro-ruban-a68816263" target="_blank">
