@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world!</h1>
+<p align="center"><b><font size="6">Hello, world!</font></b></p>
 <p align="center">
   I'm Dmytro, an aspiring iOS Developer currently finalizing my Bachelor's degree in Computer Science. I focus on building clean and  modern mobile applications. Beyond mobile development, I am equally excited about creating web applications and am always open, ready, and eager to learn new technologies.
 </p>
