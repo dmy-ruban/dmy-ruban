@@ -12,14 +12,14 @@
   </a>
 </p>
 
----
+--
 
 - 🌍 Based in **Osnabrück, Germany**
 - 🎓 Finishing Computer Science degree at **WSB Merito Gdańsk** (defending thesis this semester)
 - 🛠️ Deeply passionate about writing clean, well-structured, and maintainable code
 - 💬 Languages: **Ukrainian** (Native), **Russian** (Native), **Polish** (C1), **German** (B2), **English** (B1)
 
----
+--
 
 ## 🛠️ Core Stack
 
@@ -40,7 +40,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
----
+--
 
 ## 📊 GitHub Stats
 <!--
